@@ -9,12 +9,7 @@ Very simple Black Jack game utilizing JavaScript, HTML, CSS
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+Download folder and open index.js, use mouse click START GAME to begin and click on NEW CARD for new card, game will stop when you get a black jack or go over 21, click on START GAME for a new game.
 ```
 
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
